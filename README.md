@@ -1,4 +1,4 @@
-## Floriografia: Desvendando a Linguagem das Flores
+## Floriografia: Desvendando a Linguagem das Flores - Imersão Dev com Google Gemini
 
 ### O que é a Floriografia?
 
