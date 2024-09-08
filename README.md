@@ -2,7 +2,7 @@
 
 ### O que é a Floriografia?
 
-A Floriografia é uma aplicação web que permite explorar o rico significado por trás das flores. Com ela, você pode descobrir o que cada flor representa, sua origem e com quais outras flores combina. É como ter um dicionário de flores sempre à mão!
+A Floriografia, também conhecida como "a linguagem vitoriana das flores", surgiu como um método secreto de comunicação que deixou influências até os dias atuais. Na aplicação web aqui apresentada, permite explorar o rico significado por trás das flores. Com ela, você pode descobrir o que cada flor representa, sua origem e com quais outras flores combina. É como ter um dicionário de flores sempre à mão!
 
 ### Como funciona?
 
